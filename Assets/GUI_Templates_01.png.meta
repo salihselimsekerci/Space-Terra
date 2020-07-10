@@ -1,0 +1,2828 @@
+fileFormatVersion: 2
+guid: 0ce89ef6a864411489f4dee3827dbe91
+timeCreated: 1517343514
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: GUI_Templates_01_0
+    21300002: GUI_Templates_01_1
+    21300004: GUI_Templates_01_2
+    21300006: GUI_Templates_01_3
+    21300008: GUI_Templates_01_4
+    21300010: GUI_Templates_01_5
+    21300012: GUI_Templates_01_6
+    21300014: GUI_Templates_01_7
+    21300016: GUI_Templates_01_8
+    21300018: GUI_Templates_01_9
+    21300020: GUI_Templates_01_10
+    21300022: GUI_Templates_01_11
+    21300024: GUI_Templates_01_12
+    21300026: GUI_Templates_01_13
+    21300028: GUI_Templates_01_14
+    21300030: GUI_Templates_01_15
+    21300032: GUI_Templates_01_16
+    21300034: GUI_Templates_01_17
+    21300036: GUI_Templates_01_18
+    21300038: GUI_Templates_01_19
+    21300040: GUI_Templates_01_20
+    21300042: GUI_Templates_01_21
+    21300044: GUI_Templates_01_22
+    21300046: GUI_Templates_01_23
+    21300048: GUI_Templates_01_24
+    21300050: GUI_Templates_01_25
+    21300052: GUI_Templates_01_26
+    21300054: GUI_Templates_01_27
+    21300056: GUI_Templates_01_28
+    21300058: GUI_Templates_01_29
+    21300060: GUI_Templates_01_30
+    21300062: GUI_Templates_01_31
+    21300064: GUI_Templates_01_32
+    21300066: GUI_Templates_01_33
+    21300068: GUI_Templates_01_34
+    21300070: GUI_Templates_01_35
+    21300072: GUI_Templates_01_36
+    21300074: GUI_Templates_01_37
+    21300076: GUI_Templates_01_38
+    21300078: GUI_Templates_01_39
+    21300080: GUI_Templates_01_40
+    21300082: GUI_Templates_01_41
+    21300084: GUI_Templates_01_42
+    21300086: GUI_Templates_01_43
+    21300088: GUI_Templates_01_44
+    21300090: GUI_Templates_01_45
+    21300092: GUI_Templates_01_46
+    21300094: GUI_Templates_01_47
+    21300096: GUI_Templates_01_48
+    21300098: GUI_Templates_01_49
+    21300100: GUI_Templates_01_50
+    21300102: GUI_Templates_01_51
+    21300104: GUI_Templates_01_52
+    21300106: GUI_Templates_01_53
+    21300108: GUI_Templates_01_54
+    21300110: GUI_Templates_01_55
+    21300112: GUI_Templates_01_56
+    21300114: GUI_Templates_01_57
+    21300116: GUI_Templates_01_58
+    21300118: GUI_Templates_01_59
+    21300120: GUI_Templates_01_60
+    21300122: GUI_Templates_01_61
+    21300124: GUI_Templates_01_62
+    21300126: GUI_Templates_01_63
+    21300128: GUI_Templates_01_64
+    21300130: GUI_Templates_01_65
+    21300132: GUI_Templates_01_66
+    21300134: GUI_Templates_01_67
+    21300136: GUI_Templates_01_68
+    21300138: GUI_Templates_01_69
+    21300140: GUI_Templates_01_70
+    21300142: GUI_Templates_01_71
+    21300144: GUI_Templates_01_72
+    21300146: GUI_Templates_01_73
+    21300148: GUI_Templates_01_74
+    21300150: GUI_Templates_01_75
+    21300152: GUI_Templates_01_76
+    21300154: GUI_Templates_01_77
+    21300156: GUI_Templates_01_78
+    21300158: GUI_Templates_01_79
+    21300160: GUI_Templates_01_80
+    21300162: GUI_Templates_01_81
+    21300164: GUI_Templates_01_82
+    21300166: GUI_Templates_01_83
+    21300168: GUI_Templates_01_84
+    21300170: GUI_Templates_01_85
+    21300172: GUI_Templates_01_86
+    21300174: GUI_Templates_01_87
+    21300176: GUI_Templates_01_88
+    21300178: GUI_Templates_01_89
+    21300180: GUI_Templates_01_90
+    21300182: GUI_Templates_01_91
+    21300184: GUI_Templates_01_92
+    21300186: GUI_Templates_01_93
+    21300188: GUI_Templates_01_94
+    21300190: GUI_Templates_01_95
+    21300192: GUI_Templates_01_96
+    21300194: GUI_Templates_01_97
+    21300196: GUI_Templates_01_98
+    21300198: GUI_Templates_01_99
+    21300200: GUI_Templates_01_100
+    21300202: GUI_Templates_01_101
+    21300204: GUI_Templates_01_102
+    21300206: GUI_Templates_01_103
+    21300208: GUI_Templates_01_104
+    21300210: GUI_Templates_01_105
+    21300212: GUI_Templates_01_106
+    21300214: GUI_Templates_01_107
+    21300216: GUI_Templates_01_108
+    21300218: GUI_Templates_01_109
+    21300220: GUI_Templates_01_110
+    21300222: GUI_Templates_01_111
+    21300224: GUI_Templates_01_112
+    21300226: GUI_Templates_01_113
+    21300228: GUI_Templates_01_114
+    21300230: GUI_Templates_01_115
+    21300232: GUI_Templates_01_116
+    21300234: GUI_Templates_01_117
+    21300236: GUI_Templates_01_118
+    21300238: GUI_Templates_01_119
+    21300240: GUI_Templates_01_120
+    21300242: GUI_Templates_01_121
+    21300244: GUI_Templates_01_122
+    21300246: GUI_Templates_01_123
+    21300248: GUI_Templates_01_124
+    21300250: GUI_Templates_01_125
+    21300252: GUI_Templates_01_126
+    21300254: GUI_Templates_01_127
+    21300256: GUI_Templates_01_128
+    21300258: GUI_Templates_01_129
+    21300260: GUI_Templates_01_130
+    21300262: GUI_Templates_01_131
+    21300264: GUI_Templates_01_132
+    21300266: GUI_Templates_01_133
+    21300268: GUI_Templates_01_134
+    21300270: GUI_Templates_01_135
+    21300272: GUI_Templates_01_136
+    21300274: GUI_Templates_01_137
+    21300276: GUI_Templates_01_138
+    21300278: GUI_Templates_01_139
+    21300280: GUI_Templates_01_140
+    21300282: GUI_Templates_01_141
+    21300284: GUI_Templates_01_142
+    21300286: GUI_Templates_01_143
+    21300288: GUI_Templates_01_144
+    21300290: GUI_Templates_01_145
+    21300292: GUI_Templates_01_146
+    21300294: GUI_Templates_01_147
+    21300296: GUI_Templates_01_148
+    21300298: GUI_Templates_01_149
+    21300300: GUI_Templates_01_150
+    21300302: GUI_Templates_01_151
+    21300304: GUI_Templates_01_152
+    21300306: GUI_Templates_01_153
+    21300308: GUI_Templates_01_154
+    21300310: GUI_Templates_01_155
+    21300312: GUI_Templates_01_156
+    21300314: GUI_Templates_01_157
+    21300316: GUI_Templates_01_158
+    21300318: GUI_Templates_01_159
+    21300320: GUI_Templates_01_160
+    21300322: GUI_Templates_01_161
+    21300324: GUI_Templates_01_162
+    21300326: GUI_Templates_01_163
+    21300328: GUI_Templates_01_164
+    21300330: GUI_Templates_01_165
+    21300332: GUI_Templates_01_166
+    21300334: GUI_Templates_01_167
+    21300336: GUI_Templates_01_168
+    21300338: GUI_Templates_01_169
+    21300340: GUI_Templates_01_170
+    21300342: GUI_Templates_01_171
+    21300344: GUI_Templates_01_172
+    21300346: GUI_Templates_01_173
+    21300348: GUI_Templates_01_174
+    21300350: GUI_Templates_01_175
+    21300352: GUI_Templates_01_176
+    21300354: GUI_Templates_01_177
+    21300356: GUI_Templates_01_178
+    21300358: GUI_Templates_01_179
+    21300360: GUI_Templates_01_180
+    21300362: GUI_Templates_01_181
+    21300364: GUI_Templates_01_182
+    21300366: GUI_Templates_01_183
+    21300368: GUI_Templates_01_184
+    21300370: GUI_Templates_01_185
+    21300372: GUI_Templates_01_186
+    21300374: GUI_Templates_01_187
+    21300376: GUI_Templates_01_188
+    21300378: GUI_Templates_01_189
+    21300380: GUI_Templates_01_190
+    21300382: GUI_Templates_01_191
+    21300384: GUI_Templates_01_192
+    21300386: GUI_Templates_01_193
+    21300388: GUI_Templates_01_194
+    21300390: GUI_Templates_01_195
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GUI_Templates_01_0
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 2386
+        width: 188
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_Templates_01_1
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 2386
+        width: 156
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_Templates_01_2
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 2265
+        width: 291
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_Templates_01_3
+      rect:
+        serializedVersion: 2
+        x: 1630
+        y: 2356
+        width: 258
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_Templates_01_4
+      rect:
+        serializedVersion: 2
+        x: 1894
+        y: 2366
+        width: 121
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_Templates_01_5
+      rect:
+        serializedVersion: 2
+        x: 3375
+        y: 2321
+        width: 58
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_Templates_01_6
+      rect:
+        serializedVersion: 2
+        x: 3474
+        y: 2321
+        width: 52
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_Templates_01_7
+      rect:
+        serializedVersion: 2
+        x: 3573
+        y: 2321
+        width: 47
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_Templates_01_8
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 2284
+        width: 142
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_Templates_01_9
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 2284
+        width: 192
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_Templates_01_10
+      rect:
+        serializedVersion: 2
+        x: 2651
+        y: 2306
+        width: 264
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_Templates_01_11
+      rect:
+        serializedVersion: 2
+        x: 2979
+        y: 2304
+        width: 61
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_Templates_01_12
+      rect:
+        serializedVersion: 2
+        x: 3081
+        y: 2320
+        width: 82
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_Templates_01_13
+      rect:
+        serializedVersion: 2
+        x: 3210
+        y: 2308
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_Templates_01_14
+      rect:
+        serializedVersion: 2
+        x: 3282
+        y: 2320
+        width: 55
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_Templates_01_15
+      rect:
+        serializedVersion: 2
+        x: 3679
+        y: 2329
+        width: 39
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_Templates_01_16
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 2073
+        width: 611
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_Templates_01_17
+      rect:
+        serializedVersion: 2
+        x: 1370
+        y: 2216
+        width: 904
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_Templates_01_18
+      rect:
+        serializedVersion: 2
+        x: 2399
+        y: 2222
+        width: 80
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_Templates_01_19
+      rect:
+        serializedVersion: 2
+        x: 2509
+        y: 2198
+        width: 113
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_Templates_01_20
+      rect:
+        serializedVersion: 2
+        x: 2647
+        y: 2243
+        width: 317
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_Templates_01_21
+      rect:
+        serializedVersion: 2
+        x: 2992
+        y: 2239
+        width: 195
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_Templates_01_22
+      rect:
+        serializedVersion: 2
+        x: 3202
+        y: 2241
+        width: 49
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_Templates_01_23
+      rect:
+        serializedVersion: 2
+        x: 3269
+        y: 2222
+        width: 84
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_Templates_01_24
+      rect:
+        serializedVersion: 2
+        x: 3362
+        y: 2224
+        width: 86
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_Templates_01_25
+      rect:
+        serializedVersion: 2
+        x: 3458
+        y: 2223
+        width: 86
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_Templates_01_26
+      rect:
+        serializedVersion: 2
+        x: 3554
+        y: 2222
+        width: 84
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_Templates_01_27
+      rect:
+        serializedVersion: 2
+        x: 3655
+        y: 2220
+        width: 86
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_Templates_01_28
+      rect:
+        serializedVersion: 2
+        x: 2647
+        y: 2210
+        width: 280
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_Templates_01_29
+      rect:
+        serializedVersion: 2
+        x: 2913
+        y: 2113
+        width: 563
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_Templates_01_30
+      rect:
+        serializedVersion: 2
+        x: 2651
+        y: 2187
+        width: 213
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_Templates_01_31
+      rect:
+        serializedVersion: 2
+        x: 1396
+        y: 2114
+        width: 777
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_Templates_01_32
+      rect:
+        serializedVersion: 2
+        x: 2925
+        y: 2007
+        width: 92
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_Templates_01_33
+      rect:
+        serializedVersion: 2
+        x: 3040
+        y: 2062
+        width: 186
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_Templates_01_34
+      rect:
+        serializedVersion: 2
+        x: 3226
+        y: 2062
+        width: 209
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_Templates_01_35
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 2017
+        width: 547
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_Templates_01_36
+      rect:
+        serializedVersion: 2
+        x: 1769
+        y: 1946
+        width: 107
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_Templates_01_37
+      rect:
+        serializedVersion: 2
+        x: 1903
+        y: 1983
+        width: 26
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_Templates_01_38
+      rect:
+        serializedVersion: 2
+        x: 1956
+        y: 1945
+        width: 107
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_Templates_01_39
+      rect:
+        serializedVersion: 2
+        x: 2085
+        y: 1983
+        width: 37
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_Templates_01_40
+      rect:
+        serializedVersion: 2
+        x: 2144
+        y: 1946
+        width: 107
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_Templates_01_41
+      rect:
+        serializedVersion: 2
+        x: 2272
+        y: 1983
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_Templates_01_42
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 1901
+        width: 33
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_Templates_01_43
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 1886
+        width: 70
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_Templates_01_44
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 1633
+        width: 64
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_Templates_01_45
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 1856
+        width: 68
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_Templates_01_46
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 1819
+        width: 318
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_Templates_01_47
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 1870
+        width: 116
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_Templates_01_48
+      rect:
+        serializedVersion: 2
+        x: 1771
+        y: 1896
+        width: 105
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_Templates_01_49
+      rect:
+        serializedVersion: 2
+        x: 1958
+        y: 1896
+        width: 105
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_Templates_01_50
+      rect:
+        serializedVersion: 2
+        x: 2146
+        y: 1896
+        width: 105
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_Templates_01_51
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 1821
+        width: 37
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_Templates_01_52
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 1806
+        width: 70
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_Templates_01_53
+      rect:
+        serializedVersion: 2
+        x: 1675
+        y: 1769
+        width: 107
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_Templates_01_54
+      rect:
+        serializedVersion: 2
+        x: 1806
+        y: 1804
+        width: 33
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_Templates_01_55
+      rect:
+        serializedVersion: 2
+        x: 1864
+        y: 1769
+        width: 106
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_Templates_01_56
+      rect:
+        serializedVersion: 2
+        x: 1989
+        y: 1804
+        width: 37
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_Templates_01_57
+      rect:
+        serializedVersion: 2
+        x: 2050
+        y: 1769
+        width: 107
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_Templates_01_58
+      rect:
+        serializedVersion: 2
+        x: 2177
+        y: 1804
+        width: 35
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_Templates_01_59
+      rect:
+        serializedVersion: 2
+        x: 2239
+        y: 1769
+        width: 106
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_Templates_01_60
+      rect:
+        serializedVersion: 2
+        x: 2364
+        y: 1804
+        width: 35
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_Templates_01_61
+      rect:
+        serializedVersion: 2
+        x: 2583
+        y: 1603
+        width: 266
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_Templates_01_62
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1743
+        width: 42
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_Templates_01_63
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 1724
+        width: 71
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_Templates_01_64
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 1733
+        width: 52
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_Templates_01_65
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 1718
+        width: 39
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_Templates_01_66
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 1690
+        width: 299
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_Templates_01_67
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 1733
+        width: 147
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_Templates_01_68
+      rect:
+        serializedVersion: 2
+        x: 1677
+        y: 1720
+        width: 105
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_Templates_01_69
+      rect:
+        serializedVersion: 2
+        x: 1864
+        y: 1720
+        width: 106
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_Templates_01_70
+      rect:
+        serializedVersion: 2
+        x: 2052
+        y: 1720
+        width: 105
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_Templates_01_71
+      rect:
+        serializedVersion: 2
+        x: 2239
+        y: 1720
+        width: 106
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_Templates_01_72
+      rect:
+        serializedVersion: 2
+        x: 2886
+        y: 1683
+        width: 107
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_Templates_01_73
+      rect:
+        serializedVersion: 2
+        x: 3558
+        y: 1601
+        width: 181
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_Templates_01_74
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 1617
+        width: 90
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_Templates_01_75
+      rect:
+        serializedVersion: 2
+        x: 1177
+        y: 1644
+        width: 58
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_Templates_01_76
+      rect:
+        serializedVersion: 2
+        x: 1257
+        y: 1618
+        width: 95
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_Templates_01_77
+      rect:
+        serializedVersion: 2
+        x: 1770
+        y: 1595
+        width: 106
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_Templates_01_78
+      rect:
+        serializedVersion: 2
+        x: 1896
+        y: 1630
+        width: 37
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_Templates_01_79
+      rect:
+        serializedVersion: 2
+        x: 1956
+        y: 1595
+        width: 107
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_Templates_01_80
+      rect:
+        serializedVersion: 2
+        x: 2083
+        y: 1630
+        width: 37
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_Templates_01_81
+      rect:
+        serializedVersion: 2
+        x: 2145
+        y: 1595
+        width: 106
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_Templates_01_82
+      rect:
+        serializedVersion: 2
+        x: 2265
+        y: 1626
+        width: 47
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_Templates_01_83
+      rect:
+        serializedVersion: 2
+        x: 2905
+        y: 1589
+        width: 582
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_Templates_01_84
+      rect:
+        serializedVersion: 2
+        x: 3761
+        y: 1638
+        width: 107
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_Templates_01_85
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 1507
+        width: 193
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_Templates_01_86
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 1507
+        width: 187
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_Templates_01_87
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 1349
+        width: 275
+        height: 289
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_Templates_01_88
+      rect:
+        serializedVersion: 2
+        x: 1333
+        y: 1507
+        width: 148
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_Templates_01_89
+      rect:
+        serializedVersion: 2
+        x: 1485
+        y: 1507
+        width: 186
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_Templates_01_90
+      rect:
+        serializedVersion: 2
+        x: 1771
+        y: 1546
+        width: 72
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_Templates_01_91
+      rect:
+        serializedVersion: 2
+        x: 2302
+        y: 1497
+        width: 127
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_Templates_01_92
+      rect:
+        serializedVersion: 2
+        x: 2437
+        y: 1507
+        width: 261
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_Templates_01_93
+      rect:
+        serializedVersion: 2
+        x: 3019
+        y: 1554
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_Templates_01_94
+      rect:
+        serializedVersion: 2
+        x: 3364
+        y: 1507
+        width: 104
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_Templates_01_95
+      rect:
+        serializedVersion: 2
+        x: 3470
+        y: 1507
+        width: 166
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_Templates_01_96
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 1349
+        width: 456
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_Templates_01_97
+      rect:
+        serializedVersion: 2
+        x: 1272
+        y: 1349
+        width: 456
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_Templates_01_98
+      rect:
+        serializedVersion: 2
+        x: 2272
+        y: 1349
+        width: 456
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_Templates_01_99
+      rect:
+        serializedVersion: 2
+        x: 3272
+        y: 1349
+        width: 456
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_Templates_01_100
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 677
+        width: 906
+        height: 631
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_Templates_01_101
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 677
+        width: 906
+        height: 631
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_Templates_01_102
+      rect:
+        serializedVersion: 2
+        x: 2046
+        y: 677
+        width: 906
+        height: 631
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_Templates_01_103
+      rect:
+        serializedVersion: 2
+        x: 3046
+        y: 677
+        width: 906
+        height: 631
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_Templates_01_104
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 540
+        width: 90
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_Templates_01_105
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 567
+        width: 59
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_Templates_01_106
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 540
+        width: 93
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_Templates_01_107
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 567
+        width: 58
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_Templates_01_108
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 540
+        width: 93
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_Templates_01_109
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 565
+        width: 57
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_Templates_01_110
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 540
+        width: 90
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_Templates_01_111
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 564
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_Templates_01_112
+      rect:
+        serializedVersion: 2
+        x: 1173
+        y: 540
+        width: 90
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_Templates_01_113
+      rect:
+        serializedVersion: 2
+        x: 1276
+        y: 567
+        width: 59
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_Templates_01_114
+      rect:
+        serializedVersion: 2
+        x: 1359
+        y: 540
+        width: 93
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_Templates_01_115
+      rect:
+        serializedVersion: 2
+        x: 1466
+        y: 567
+        width: 58
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_Templates_01_116
+      rect:
+        serializedVersion: 2
+        x: 1548
+        y: 540
+        width: 93
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_Templates_01_117
+      rect:
+        serializedVersion: 2
+        x: 1655
+        y: 565
+        width: 57
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_Templates_01_118
+      rect:
+        serializedVersion: 2
+        x: 1737
+        y: 540
+        width: 92
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_Templates_01_119
+      rect:
+        serializedVersion: 2
+        x: 1845
+        y: 564
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_Templates_01_120
+      rect:
+        serializedVersion: 2
+        x: 2173
+        y: 540
+        width: 90
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_Templates_01_121
+      rect:
+        serializedVersion: 2
+        x: 2276
+        y: 567
+        width: 59
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_Templates_01_122
+      rect:
+        serializedVersion: 2
+        x: 2359
+        y: 540
+        width: 93
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_Templates_01_123
+      rect:
+        serializedVersion: 2
+        x: 2468
+        y: 565
+        width: 54
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_Templates_01_124
+      rect:
+        serializedVersion: 2
+        x: 2548
+        y: 540
+        width: 93
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_Templates_01_125
+      rect:
+        serializedVersion: 2
+        x: 2661
+        y: 563
+        width: 43
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_Templates_01_126
+      rect:
+        serializedVersion: 2
+        x: 2737
+        y: 540
+        width: 90
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_Templates_01_127
+      rect:
+        serializedVersion: 2
+        x: 2841
+        y: 567
+        width: 56
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_Templates_01_128
+      rect:
+        serializedVersion: 2
+        x: 3173
+        y: 540
+        width: 90
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_Templates_01_129
+      rect:
+        serializedVersion: 2
+        x: 3276
+        y: 567
+        width: 59
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_Templates_01_130
+      rect:
+        serializedVersion: 2
+        x: 3359
+        y: 540
+        width: 93
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_Templates_01_131
+      rect:
+        serializedVersion: 2
+        x: 3468
+        y: 565
+        width: 51
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_Templates_01_132
+      rect:
+        serializedVersion: 2
+        x: 3548
+        y: 540
+        width: 93
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_Templates_01_133
+      rect:
+        serializedVersion: 2
+        x: 3655
+        y: 565
+        width: 57
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_Templates_01_134
+      rect:
+        serializedVersion: 2
+        x: 3737
+        y: 540
+        width: 90
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_Templates_01_135
+      rect:
+        serializedVersion: 2
+        x: 3845
+        y: 564
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_Templates_01_136
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 140
+        width: 355
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_Templates_01_137
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 153
+        width: 311
+        height: 346
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_Templates_01_138
+      rect:
+        serializedVersion: 2
+        x: 1153
+        y: 153
+        width: 356
+        height: 362
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_Templates_01_139
+      rect:
+        serializedVersion: 2
+        x: 1526
+        y: 444
+        width: 115
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_Templates_01_140
+      rect:
+        serializedVersion: 2
+        x: 1644
+        y: 452
+        width: 230
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_Templates_01_141
+      rect:
+        serializedVersion: 2
+        x: 2091
+        y: 486
+        width: 49
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_Templates_01_142
+      rect:
+        serializedVersion: 2
+        x: 2972
+        y: 417
+        width: 95
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_Templates_01_143
+      rect:
+        serializedVersion: 2
+        x: 3114
+        y: 433
+        width: 541
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_Templates_01_144
+      rect:
+        serializedVersion: 2
+        x: 3679
+        y: 437
+        width: 127
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_Templates_01_145
+      rect:
+        serializedVersion: 2
+        x: 3837
+        y: 454
+        width: 27
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_Templates_01_146
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 427
+        width: 235
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_Templates_01_147
+      rect:
+        serializedVersion: 2
+        x: 1544
+        y: 177
+        width: 312
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_Templates_01_148
+      rect:
+        serializedVersion: 2
+        x: 1878
+        y: 411
+        width: 62
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_Templates_01_149
+      rect:
+        serializedVersion: 2
+        x: 1942
+        y: 407
+        width: 110
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_Templates_01_150
+      rect:
+        serializedVersion: 2
+        x: 2091
+        y: 403
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_Templates_01_151
+      rect:
+        serializedVersion: 2
+        x: 2163
+        y: 106
+        width: 674
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_Templates_01_152
+      rect:
+        serializedVersion: 2
+        x: 3841
+        y: 71
+        width: 19
+        height: 362
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_Templates_01_153
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 386
+        width: 74
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_Templates_01_154
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 387
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_Templates_01_155
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 391
+        width: 158
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_Templates_01_156
+      rect:
+        serializedVersion: 2
+        x: 1911
+        y: 355
+        width: 61
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_Templates_01_157
+      rect:
+        serializedVersion: 2
+        x: 1989
+        y: 358
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_Templates_01_158
+      rect:
+        serializedVersion: 2
+        x: 3181
+        y: 368
+        width: 163
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_Templates_01_159
+      rect:
+        serializedVersion: 2
+        x: 3409
+        y: 376
+        width: 74
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_Templates_01_160
+      rect:
+        serializedVersion: 2
+        x: 3487
+        y: 376
+        width: 86
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_Templates_01_161
+      rect:
+        serializedVersion: 2
+        x: 3710
+        y: 380
+        width: 64
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_Templates_01_162
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 339
+        width: 88
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_Templates_01_163
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 339
+        width: 154
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_Templates_01_164
+      rect:
+        serializedVersion: 2
+        x: 2972
+        y: 265
+        width: 95
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_Templates_01_165
+      rect:
+        serializedVersion: 2
+        x: 3114
+        y: 280
+        width: 541
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_Templates_01_166
+      rect:
+        serializedVersion: 2
+        x: 3679
+        y: 284
+        width: 127
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_Templates_01_167
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 294
+        width: 84
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_Templates_01_168
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 296
+        width: 154
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_Templates_01_169
+      rect:
+        serializedVersion: 2
+        x: 1880
+        y: 273
+        width: 174
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_Templates_01_170
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 257
+        width: 108
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_Templates_01_171
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 257
+        width: 154
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_Templates_01_172
+      rect:
+        serializedVersion: 2
+        x: 1868
+        y: 183
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_Templates_01_173
+      rect:
+        serializedVersion: 2
+        x: 3180
+        y: 210
+        width: 198
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_Templates_01_174
+      rect:
+        serializedVersion: 2
+        x: 3419
+        y: 222
+        width: 76
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_Templates_01_175
+      rect:
+        serializedVersion: 2
+        x: 3495
+        y: 222
+        width: 78
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_Templates_01_176
+      rect:
+        serializedVersion: 2
+        x: 3710
+        y: 231
+        width: 64
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_Templates_01_177
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 179
+        width: 205
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_Templates_01_178
+      rect:
+        serializedVersion: 2
+        x: 1966
+        y: 210
+        width: 86
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_Templates_01_179
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 104
+        width: 282
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_Templates_01_180
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 130
+        width: 95
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_Templates_01_181
+      rect:
+        serializedVersion: 2
+        x: 1548
+        y: 118
+        width: 281
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_Templates_01_182
+      rect:
+        serializedVersion: 2
+        x: 1880
+        y: 63
+        width: 92
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_Templates_01_183
+      rect:
+        serializedVersion: 2
+        x: 1987
+        y: 91
+        width: 47
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_Templates_01_184
+      rect:
+        serializedVersion: 2
+        x: 2972
+        y: 94
+        width: 95
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_Templates_01_185
+      rect:
+        serializedVersion: 2
+        x: 3114
+        y: 110
+        width: 543
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_Templates_01_186
+      rect:
+        serializedVersion: 2
+        x: 3679
+        y: 116
+        width: 127
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_Templates_01_187
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 54
+        width: 143
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_Templates_01_188
+      rect:
+        serializedVersion: 2
+        x: 1556
+        y: 58
+        width: 140
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_Templates_01_189
+      rect:
+        serializedVersion: 2
+        x: 1718
+        y: 62
+        width: 115
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_Templates_01_190
+      rect:
+        serializedVersion: 2
+        x: 3181
+        y: 46
+        width: 203
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_Templates_01_191
+      rect:
+        serializedVersion: 2
+        x: 3411
+        y: 55
+        width: 76
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_Templates_01_192
+      rect:
+        serializedVersion: 2
+        x: 3489
+        y: 58
+        width: 84
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_Templates_01_193
+      rect:
+        serializedVersion: 2
+        x: 3710
+        y: 64
+        width: 64
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_Templates_01_194
+      rect:
+        serializedVersion: 2
+        x: 1569
+        y: 22
+        width: 127
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_Templates_01_195
+      rect:
+        serializedVersion: 2
+        x: 1722
+        y: 22
+        width: 107
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
