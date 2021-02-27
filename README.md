@@ -1,4 +1,4 @@
-# Space-Terra-
+# Space Terra
 Android Mobile Game
 
 # License
