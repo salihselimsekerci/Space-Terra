@@ -6,7 +6,7 @@ Android Mobile Game
 ![screen-1](https://user-images.githubusercontent.com/53614606/109380987-b1765480-78e8-11eb-84f8-bf80410aa1d8.jpg)
 ![screen-2](https://user-images.githubusercontent.com/53614606/109380986-b1765480-78e8-11eb-917d-4e23fb85151e.jpg)
 ![screen-3](https://user-images.githubusercontent.com/53614606/109380985-b1765480-78e8-11eb-9881-b9fc2d47c6ee.jpg)
-![screen-4](https://user-images.githubusercontent.com/53614606/109380982-b0452780-78e8-11eb-93fd-be62203429d1.jpg)
+
 
 
 # License
