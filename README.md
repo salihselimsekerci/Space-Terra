@@ -1,7 +1,7 @@
 # Space-Terra-
 Android Mobile Game
 
-#License
+# License
 <Space Terra>  Copyright (C) <2019>  <Salih Selim ŞEKERCİ>
     This program comes with ABSOLUTELY NO WARRANTY; for details type `show w'.
     This is free software, and you are welcome to redistribute it
